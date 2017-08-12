@@ -1,3 +1,10 @@
+
+Document retrieval system, based on the vector space model, and evaluating its performance over the CACM test collection under alternative conﬁgurations, arising from choices that might include the following: 
+• stoplist: whether a stoplist is used or not (to exclude less useful terms)
+• stemming: whether or not stemming is applied to terms. 
+• term weighting: whether term weights in vectors are binary, or are term frequencies, or use the TF.IDF approach
+
+----------------------------------------------------------------------------------------------------------------------------------
 The following instructions show the intended use of the Retrieval.py
 
 1. Include the following files in the same directory as the Retrieval.py
